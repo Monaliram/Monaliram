@@ -8,10 +8,9 @@
 - 📄 Know about my experiences [I have 3 years of experience in angular,node,web3.js.](I have 3 years of experience in angular,node,web3.js.)
 
 - 📫 How to reach me **monalichavare@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/monali chavare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monali chavare" height="30" width="40" /></a>
-</p
+- Connect with me
+  🤝 [(linkedin)] **https://linkedin.com/in/monalichavare**
+
   
 
 <h3 align="left">Languages and Tools:</h3>
