@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **monalichavare@gmail.com**
 - Connect with me
-  🤝 [(linkedin)] **https://linkedin.com/in/monalichavare**
+  🤝 [(linkedin)] **https://www.linkedin.com/in/monali-chavare-279587153**
 
   
 
